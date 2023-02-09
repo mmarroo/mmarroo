@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @mmarroo
-- 👀 I’m interested in Web Development and Database Administration.
-- 🌱 I’m currently learning SQL and Javascript
 - 💞️ I’m looking to collaborate on any project that will help me progress.
 - 📫 Reach me at my email; mmmarrro@gmail.com
 
